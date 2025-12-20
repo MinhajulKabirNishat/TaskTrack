@@ -6,6 +6,7 @@
       <input v-model="newTime" placeholder="Time ( 9:00 - 10:00)" />
       <input v-model="newTask" placeholder="Task name" />
       <button @click="addTask">Add Task</button>
+      <button @click="addTask">New Button</button>
     </div>
 
     <ul>
