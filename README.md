@@ -31,8 +31,26 @@ npm install
 npm run dev
 ```
 
+
 ### Compile and Minify for Production
 
 ```sh
 npm run build
 ```
+<br>
+
+<h1>📅 Timetable & Task Manager</h1> 
+A streamlined application designed to help users organize their weekly schedule with a clean, visual interface.
+
+<h2>🚀 Development Roadmap</h2>
+After doing basic development now today I'm currently following a structured 4-step plan to build out the core functionality of this app.
+
+<h3>🏗️ Phase 1: Architecture & Layout</h3>
+<b>Component Architecture:</b> We are splitting the app into small, manageable pieces. This makes the code cleaner, faster, and easier to fix if something goes wrong.<br>
+
+<b>Weekly Grid View:</b> Implementing a professional "Timetable" layout. This gives users a bird's-eye view of their entire week at a glance.
+
+<h3>⚙️ Phase 2: User Features</h3>
+<b>Task Editing:</b> Users can now click on existing tasks to update details, change times, or rename them on the fly.<br>
+
+<b>Dark Mode Support:</b> A built-in Light/Dark mode toggle to ensure the app is comfortable to use at any time of day.
