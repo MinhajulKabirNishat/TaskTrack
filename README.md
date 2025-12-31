@@ -53,4 +53,5 @@ After doing basic development now today I'm currently following a structured 4-s
 <h3>⚙️ Phase 2: User Features</h3>
 <b>Task Editing:</b> Users can now click on existing tasks to update details, change times, or rename them on the fly.<br>
 
-<b>Dark Mode Support:</b> A built-in Light/Dark mode toggle to ensure the app is comfortable to use at any time of day.
+<b>Dark Mode Support:</b> A built-in Light/Dark mode toggle to ensure the app is comfortable to use at any time of day.<br>
+<b>Export as PDF:</b> User now can download their timetable routine.
